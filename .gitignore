@@ -1,4 +1,7 @@
-/customer-dept/
-/parent/
-/provider-dept/
-/provider-dept-api/
+.idea/
+.svn/
+logs/
+target/
+out/
+*.iml
+.txlcn/
